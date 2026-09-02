@@ -1,3 +1,3 @@
-FROM n8nio/n8n:2.35.4
+FROM n8nio/n8n:2.37.7
 USER root
 RUN npm install -g xlsx@0.18.5
